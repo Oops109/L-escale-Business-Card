@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">L\'Escale</string>
+    <string name="web_link" translatable="false">https://lescalebischwiller.wixsite.com/chambresdhotes</string>
+    <string name="phone_number" translatable="false">+33 6 68 69 84 16</string>
+    <string name="mail_link" translatable="false">lescale.bischwiller@gmail.com</string>
+    <string name="business">Guesthouse</string>
+</resources>
